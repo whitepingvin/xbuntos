@@ -2,20 +2,20 @@
 permalink:        pretty
 
 # Setup
-title:            Записная книжка
-tagline:          'Чтобы самому не забыть и другим рассказать'
+title:            XbuntOS
+tagline:          'Это всё. что нужно вхять с собой...'
 paginate:         10
 paginate_path:    "page:num"
 highlighter:      rouge
-future:           false
-show_drafts:      false
+future:           true
+show_drafts:      true
 
-url:              http://www.alexprivalov.org
-shorturl:         alexprivalov.org
+url:              https://whitepingvin.github.io/xbuntos/
+shorturl:         whitepingvin.github.io/xbuntos
 
 author:
-  name:           Alex Privalov
-  url:            alexprivalov.org
+  name:           Vicktor Suver
+  url:            whitepingvin.ru
 
 # This is the list of pages to include in the header of the website.
 pages_list:
