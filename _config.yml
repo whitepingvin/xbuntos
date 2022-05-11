@@ -3,7 +3,7 @@ permalink:        pretty
 
 # Setup
 title:            XbuntOS
-tagline:          'Это всё. что нужно вхять с собой...'
+tagline:          'Это всё. что нужно взять с собой...'
 paginate:         10
 paginate_path:    "page:num"
 highlighter:      rouge
