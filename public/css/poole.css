@@ -102,6 +102,9 @@ span._x {
     transform: rotate(133deg);
     z-index: 2;
 }
+.post h1 {
+    font-size: 1.5rem;
+}
 /* Body text */
 p {
   margin-top: 0;
