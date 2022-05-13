@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Установка github-desktop на Ubuntu"
+title: "Установка GitHubDesktop на Ubuntu"
 permalink: github-of-ubuntu
 tags: github
 ---
