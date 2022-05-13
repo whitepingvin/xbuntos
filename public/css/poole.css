@@ -96,10 +96,12 @@ h4, h5, h6 {
     letter-spacing: -3px;
 }
 span._x {
-    position: relative;
+    position: absolute;
     font-size: 2.7rem;
     color: coral;
-    transform: rotate(133deg);
+    transform: rotate(149deg);
+    top: 15px;
+    left: 0;
     z-index: 2;
 }
 .post h1 {
@@ -308,6 +310,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 3rem;
 }
 .masthead-title {
+  position: relative;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
