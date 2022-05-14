@@ -524,6 +524,9 @@ a.pagination-item:hover {
   margin-top: -15px;
   text-align: right;
 }
+img.up {
+    width: 30px;
+}
 
 #scrollup {
     position: fixed; /* fixed position */
@@ -533,10 +536,11 @@ a.pagination-item:hover {
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    left: 10px;
-    bottom: 10px;
+    left: 20px;
+    bottom: 60px;
     display: none;
     cursor: pointer;
+		height: 46px;
 }
 
 /* image slider style */
