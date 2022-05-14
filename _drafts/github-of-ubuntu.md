@@ -5,11 +5,9 @@ permalink: github-of-ubuntu
 tags: github
 ---
 
-![top_img](./assets/github-of-ubuntu/githubdesktop.png)
----
-Шаг 1 :
-Используйте команду wget:
-
+![top_img](./assets/github-of-ubuntu/githubdesktop.png)   
+Шаг 1 :   
+Используйте команду wget:   
 > sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.0-linux2/GitHubDesktop-linux-2.9.0-linux2.deb
 
 Шаг 2 :
