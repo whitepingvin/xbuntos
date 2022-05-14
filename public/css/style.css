@@ -309,19 +309,27 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-	padding-left: 2rem;
-  margin-bottom: 3rem;
+    width: 100%;
+    height: 1.7rem;
+    padding-left: 2rem;
+    margin-bottom: 3rem;
+    background: #383d42;
+    color: antiquewhite;
+}
+h3.masthead-title {
+    color: #ffe9e0;
+    font-size: 1rem;
+    margin-top: 0;
+    top: 0;
 }
 .masthead-title {
   position: relative;
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #d3d3d3;
 }
 .masthead-title a {
-  color: #505050;
+  color: #d3d3d3;
 }
 .masthead-title small {
   font-size: 70%;
@@ -329,7 +337,15 @@ tbody tr:nth-child(odd) th {
   color: #c0c0c0;
   letter-spacing: 0;
 }
-
+a.home__title {
+    color: #d3d3d3;
+    font-size: 1.3rem;
+}
+.home__title {
+    font-size: 2.25rem;
+    font-family: 'Ubuntu';
+    letter-spacing: -2px;
+}
 
 /*
  * Posts and pages
@@ -418,6 +434,23 @@ tbody tr:nth-child(odd) th {
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
   background-color: #f5f5f5;
+}
+
+.footer {
+    width: 100%;
+    height: 30px;
+    position: relative;
+    color: lightgrey;
+    background: #383d42;
+    padding-left: 40px;
+    font-size: .8rem;
+		bottom: -9px;
+}
+
+.footer p {
+    display: inline;
+    vertical-align: middle !important;
+    margin: 0;
 }
 
 @media (min-width: 30em) {
