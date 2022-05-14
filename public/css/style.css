@@ -301,6 +301,7 @@ tbody tr:nth-child(odd) th {
     top: -54px;
 		background: #fff;
 		border: 1px solid #dfdfdf;
+		height: 100vh;
 }
 
 
