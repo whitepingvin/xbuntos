@@ -17,7 +17,7 @@ tags: github
 
 > sudo apt-get install gdebi-core
 
-***
+<!-- more -->
 
 Шаг 3 :
 После установки gdebi с помощью gdebi установите клиент GitHubDesktop
