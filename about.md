@@ -12,3 +12,5 @@ title: О блоге
 
 * [Почта](mailto:suverlife@ya.ru)
 * [Github](https://github.com/whitepingvin)
+* [VK](https://vk.com/viktorsuver)
+* [Telegram](https://t.me/suvernet)
