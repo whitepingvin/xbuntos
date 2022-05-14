@@ -526,6 +526,7 @@ a.pagination-item:hover {
 }
 img.up {
     width: 30px;
+		margin-top: -5px;
 }
 
 #scrollup {
