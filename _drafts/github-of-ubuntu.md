@@ -6,7 +6,7 @@ tags: github
 ---
 
 ![top_img](./assets/github-of-ubuntu/githubdesktop.png)
-
+---
 Шаг 1 :
 Используйте команду wget:
 
@@ -17,13 +17,14 @@ tags: github
 
 > sudo apt-get install gdebi-core
 
-...
+
 
 Шаг 3 :
 После установки gdebi с помощью gdebi установите клиент GitHubDesktop
 
 > sudo gdebi GitHubDesktop-linux-2.9.0-linux2.deb
 
+---
 
 Альтернативные способы установки после шага 1:
 Вы также можете использовать команды dpkg или apt.
