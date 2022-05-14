@@ -11,4 +11,4 @@
 
 </div>
 
-Почитать и узнать подробности об Операционной Системе можно [Здесь](https://whitepingvin.github.io/xbuntos)
+Почитать и узнать подробности об Операционной Системе, можно [Здесь](https://whitepingvin.github.io/xbuntos)
