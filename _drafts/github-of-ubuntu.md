@@ -8,7 +8,7 @@ tags: github
 ![top_img](./assets/github-of-ubuntu/githubdesktop.png)   
 Шаг 1 :       
 Используйте команду wget:   
-> sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.0-linux2/GitHubDesktop-linux-2.9.0-linux2.deb
+> sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.14-linux2/GitHubDesktop-linux-2.9.14-linux2.deb
 
 Шаг 2 :   
 Установите gdebi с помощью следующей команды:
@@ -20,7 +20,7 @@ tags: github
 Шаг 3 :   
 После установки gdebi с помощью gdebi установите клиент GitHubDesktop
 
-> sudo gdebi GitHubDesktop-linux-2.9.0-linux2.deb
+> sudo gdebi GitHubDesktop-linux-2.9.14-linux2.deb
 
 ---
 
@@ -29,10 +29,10 @@ tags: github
 
 Способ 1:
 
-> sudo dpkg -i GitHubDesktop-linux-2.9.0-linux2.deb
+> sudo dpkg -i GitHubDesktop-linux-2.9.14-linux2.deb
 
 > sudo apt-get install -f
 
 Способ 2:
 
-> sudo apt install ./GitHubDesktop-linux-2.9.0-linux2.deb
+> sudo apt install ./GitHubDesktop-linux-2.9.14-linux2.deb
