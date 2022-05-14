@@ -5,7 +5,7 @@ permalink: github-of-ubuntu
 tags: github
 ---
 
-![top_img](/assets/Установка GitHubDesktop на Ubuntu/githubdesktop.png)
+![top_img](./assets/github-of-ubuntu/githubdesktop.png)
 
 Шаг 1 :
 Используйте команду wget:
