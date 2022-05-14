@@ -294,12 +294,13 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-    max-width: 38rem;
-    padding: 4rem 1rem 0;
+    max-width: 40rem;
+    padding: 4rem 3rem;
     margin: 0 auto;
     position: relative;
     top: -54px;
 		background: #fff;
+		border: 1px solid #dfdfdf;
 }
 
 
