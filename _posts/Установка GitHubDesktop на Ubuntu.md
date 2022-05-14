@@ -5,6 +5,8 @@ permalink: github-of-ubuntu
 tags: github
 ---
 
+![top_img](/assets/Установка GitHubDesktop на Ubuntu/githubdesktop.png)
+
 Шаг 1 :
 Используйте команду wget:
 
@@ -14,6 +16,8 @@ tags: github
 Установите gdebi с помощью следующей команды:
 
 > sudo apt-get install gdebi-core
+
+---
 
 Шаг 3 :
 После установки gdebi с помощью gdebi установите клиент GitHubDesktop
