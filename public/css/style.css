@@ -315,7 +315,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
     width: 100%;
-    height: 1.7rem;
+    height: 2rem;
     padding-left: 2rem;
     margin-bottom: 3rem;
     background: #383d42;
@@ -342,9 +342,16 @@ h3.masthead-title {
   color: #c0c0c0;
   letter-spacing: 0;
 }
+.masthead p small {
+    position: relative;
+    top: 13px;
+    color: #66757c;
+}
 a.home__title {
+		position: relative;
     color: #d3d3d3;
     font-size: 1.3rem;
+		top: 2px;
 }
 .home__title {
     font-size: 2.25rem;
