@@ -112,6 +112,7 @@ span._x {
 .post h1 {
     font-size: 1.4rem;
 		font-weight: 300;
+		font-family: 'Times New Roman', Times, FreeSerif, serif;
 }
 /* Body text */
 p {
