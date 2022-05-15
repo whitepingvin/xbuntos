@@ -346,6 +346,7 @@ h3.masthead-title {
     position: relative;
     top: 13px;
     color: #66757c;
+		z-index: 2;
 }
 a.home__title {
 		position: relative;
