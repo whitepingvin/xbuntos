@@ -110,7 +110,8 @@ span._x {
     z-index: 2;
 }
 .post h1 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
+		font-weight: 300;
 }
 /* Body text */
 p {
@@ -372,6 +373,10 @@ a.home__title {
 .page-title,
 .post-title {
   margin-top: 0;
+}
+h1.page-title {
+    font-size: 1.4rem;
+    font-weight: 300;
 }
 
 /* Meta data line below post title */
