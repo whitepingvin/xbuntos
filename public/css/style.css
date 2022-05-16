@@ -466,9 +466,8 @@ a.pagination-item:hover {
 }
 
 .footer p {
-    display: inline;
-    vertical-align: middle !important;
-    margin: 0;
+    display: block;    
+    margin-top: 5px;
 }
 
 @media (min-width: 30em) {
