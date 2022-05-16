@@ -460,7 +460,6 @@ a.pagination-item:hover {
     position: absolute;
     color: lightgrey;
     background: #383d42;
-    padding-left: 40px;
     font-size: .8rem;
 		bottom: 0;
 }
